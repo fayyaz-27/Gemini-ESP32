@@ -18,7 +18,4 @@ It is designed for quick prototyping and experimentation without the complexity 
 - Python 3.8+  
 - `google-generativeai` library  
 
-Install the library in Thonny (or terminal):
 
-```bash
-pip install google-generativeai
