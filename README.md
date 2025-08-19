@@ -16,6 +16,6 @@ It is designed for quick prototyping and experimentation without the complexity 
 ## 📦 Requirements
 - [Thonny IDE](https://thonny.org/)  
 - Python 3.8+  
-- `google-generativeai` library  
+- `google-generativeai` API Key  
 
 
