@@ -6,7 +6,7 @@ It is designed for quick prototyping and experimentation without the complexity 
 ---
 
 ## 🚀 Features
-- Simple Python script — runs directly in **Thonny**.
+- Simple Python script runs directly in **Thonny** & **ESP32**.
 - Takes **custom user input** and sends it to **Gemini AI**.
 - Prints **AI-generated responses** back to the console.
 - Uses **free Gemini API key** (from Google AI Studio).
