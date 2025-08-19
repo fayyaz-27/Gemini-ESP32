@@ -1,4 +1,4 @@
-# Gemini AI with Thonny (ESP32-friendly workflow)
+# Gemini AI with Thonny (ESP32)
 
 This repository contains a **Python script** to interact with **Google Gemini AI API** using Thonny IDE.  
 It is designed for quick prototyping and experimentation without the complexity of ESP-IDF or heavy frameworks.
